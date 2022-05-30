@@ -1,0 +1,7 @@
+pandas
+torch==1.9.0
+transformers==4.3.3
+pytorch-lightning==1.2.1
+numpy
+torchtext==0.6.0
+torchmetrics==0.4.0
